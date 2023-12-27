@@ -25,6 +25,8 @@
 | A2 | German |
 | C2 | Czech |
 
+Check my coding style in my [Advent of Code repo](https://github.com/Lastaapps/advent-of-code/).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastaApps&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
