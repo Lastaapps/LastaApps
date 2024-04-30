@@ -1,13 +1,19 @@
-# Lasta Apps
+# Petr Laštovička (Lasta Apps)
 
 ## About me
+
+Hi, I'm student of FIT CTU in Prague with love in programming, theory, math,
+social activity and playing guitar. Currently, I'm doing my bachelor's in
+theoretical informatics. I started programming in my 8th class of elementary
+school, gained self-though knowledge during high school and extended it
+significantly. I'm loving it so far.
 
 | Key  | Value  |
 |---|---|
 | Name | Petr Laštovička |
 | Born | 2002 |
 | High school | Gymnázium Pelhřimov (2016 - 2021)| 
-| University | Faculty of Information Technology CTU Prague (2021 - ...) |
+| University | Faculty of Information Technology CTU Prague (2021 - …) |
 | Field | Theoretical informatics 
 | Study average | 1.05 |
 | Hobbies | Programming, Guitar playing, Dancing |
@@ -16,7 +22,7 @@
 
 
 ## Languages, Technologies
-| Level  | Languages, tools, platforms, ... |
+| Level  | Languages, tools, platforms, … |
 |---|---|
 | Quite good | C, C++, Kotlin, Android SDK, Git, Python, SQL |
 | Not an expert | Linux, Rust, Shell, Docker, Gradle, Java, Lisp |
@@ -34,12 +40,14 @@ Check my coding style (not only) in my [Advent of Code repo](https://github.com/
 ## Projects
 
 ### High school
+
 - Many small Android apps
 - Bakaláři mobile client (huge, but never finished & published)
 - Arduino/ESP weather station
 
 
 ### University
+
 - [Lispík](https://github.com/Lastaapps/Lispik) - SECD VM and compiler for basic Lisp constructs, Kotlin
 - [Mila](https://github.com/Lastaapps/Lispik) - Pascal compiler, Rust
 - [Menza CTU](https://github.com/Lastaapps/menza) - Mobile client + server for viewing and rating CTU canteen dishes (1600+ users), Kotlin
@@ -50,15 +58,18 @@ Check my coding style (not only) in my [Advent of Code repo](https://github.com/
 - [Algorithms](https://github.com/Lastaapps/BI-AG1-Progtest) repository ([advanced](https://github.com/Lastaapps/ctu-ag2-progtest))
 
 #### Self-hosting on the Raspberry Pi4
+
 - Alma Linux
 - Synapse Matrix
 - Nextcloud
 - Nginx
 - Syncthing
 - WordPress
-- and more...
+- and more…
+
 
 ## Experience, achievements
+
 - see the projects above first
 - Matee devs - Android app development, 1 year
 - Teaching C at FIT CTU, 1 semester
@@ -70,12 +81,14 @@ Check my coding style (not only) in my [Advent of Code repo](https://github.com/
 - Physics selective course [Táňa](http://fyzikalniolympiada.cz/Tana)
 
 ## Contact
+
  - [Github - LastaApps](https://github.com/Lastaapps)
  - [Telegram - @to_urcite_ty_kokos](https://t.me/to_urcite_ty_kokos)
  - [Matrix - @to_urcite_ty_kokos](@to_urcite_ty_kokos:lastope2.sh.cvut.cz) ([backup](@to_urcite_ty_kokos:matrix.org))
  - [LinkedIn](https://www.linkedin.com/in/petr-laštovička-597a11188/)
  
 ## And btw
+
 I use Arch.
 
 
