@@ -9,39 +9,40 @@
 | High school | Gymnázium Pelhřimov (2016 - 2021)| 
 | University | Faculty of Information Technology CTU Prague (2021 - ...) |
 | Field | Theoretical informatics 
-| Study average | 1.07 |
-| Hobbies | Programming, Guitar playing, Memes |
+| Study average | 1.05 |
+| Hobbies | Programming, Guitar playing, Dancing |
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LastaApps&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Languages
+## Languages, Technologies
 | Level  | Languages, tools, platforms, ... |
 |---|---|
-| Quite good | C, C++, Kotlin, Android, Git, Rust |
-| Can use, not an expert | Python, Lisp, Linux, Shell, SQL, Docker, Gradle, Java |
-| Android, Kotlin | KMP, Compose, SQLDelight, Koin, MVVM, Views, Ktor, ... |
+| Quite good | C, C++, Kotlin, Android SDK, Git, Python, SQL |
+| Not an expert | Linux, Rust, Shell, Docker, Gradle, Java, Lisp |
+| Fields | Algorithms, Data structures, Compilers, Deep learning, App development, Functional prog., Non-basic uni math |
+| Android, Kotlin | KMP, Compose, SQLDelight, Koin, MVVM, Views, Ktor, … |
 | B2 | English |
 | A2 | German |
 | C2 | Czech |
 
-Check my coding style in my [Advent of Code repo](https://github.com/Lastaapps/advent-of-code/).
+Check my coding style (not only) in my [Advent of Code repo](https://github.com/Lastaapps/advent-of-code/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastaApps&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Projects
 
-### Younger me
+### High school
 - Many small Android apps
-- Bakaláři mobile client (huge, but unfinished)
+- Bakaláři mobile client (huge, but never finished & published)
 - Arduino/ESP weather station
 
 
-### Uni times
+### University
 - [Lispík](https://github.com/Lastaapps/Lispik) - SECD VM and compiler for basic Lisp constructs, Kotlin
 - [Mila](https://github.com/Lastaapps/Lispik) - Pascal compiler, Rust
-- [Menza CTU](https://github.com/Lastaapps/menza) - Mobile client + server for viewing and rating CTU canteen dishes (1000+ users), Kotlin
+- [Menza CTU](https://github.com/Lastaapps/menza) - Mobile client + server for viewing and rating CTU canteen dishes (1600+ users), Kotlin
 - [vimxel](https://github.com/Lastaapps/menza) - Table processor in terminal supporting expressions and vim bindings, C++
 - [Vector house](https://github.com/Lastaapps/vector-house) - Vector based search engine for Wikipedia, Python
 - [C++](https://github.com/Lastaapps/ctu-pa2-progtest) course repository
@@ -53,6 +54,7 @@ Check my coding style in my [Advent of Code repo](https://github.com/Lastaapps/a
 - Synapse Matrix
 - Nextcloud
 - Nginx
+- Syncthing
 - WordPress
 - and more...
 
