@@ -8,6 +8,8 @@ theoretical informatics. I started programming in my 8th class of elementary
 school, gained self-though knowledge during high school and extended it
 significantly. I'm loving it so far.
 
+<img src="./me.jpeg" width="42%">
+
 | Key  | Value  |
 |---|---|
 | Name | Petr Laštovička |
@@ -21,10 +23,10 @@ significantly. I'm loving it so far.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LastaApps&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Papers
+## Publications
 
 - Flexible realizations existence: NP-completeness on sparse graphs and algorithms,
-  Petr Laštovička, Jan Legerský, 2024
+  Petr Laštovička, Jan Legerský, 2024,
   [arXiv.org](https://www.arxiv.org/abs/2412.13721)
 
 
@@ -41,7 +43,8 @@ significantly. I'm loving it so far.
 
 Check my coding style (not only) in my [Advent of Code repo](https://github.com/Lastaapps/advent-of-code/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastaApps&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- This is totally irrelevant as GitHub stats are broken -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastaApps&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## Experience, achievements
@@ -75,7 +78,7 @@ Check my coding style (not only) in my [Advent of Code repo](https://github.com/
 - [Vector house](https://github.com/Lastaapps/vector-house) - Vector based search engine for Wikipedia, Python
 - [C++](https://github.com/Lastaapps/ctu-pa2-progtest) course repository
 - [C](https://github.com/Lastaapps/ctu-pa1-progtest) course repository
-- [Algorithms](https://github.com/Lastaapps/BI-AG1-Progtest) repository ([advanced](https://github.com/Lastaapps/ctu-ag2-progtest))
+- [Algorithms](https://github.com/Lastaapps/BI-AG1-Progtest) repository ([advanced course](https://github.com/Lastaapps/ctu-ag2-progtest))
 - and more minor projects
 
 #### Self-hosting
@@ -100,5 +103,5 @@ Check my coding style (not only) in my [Advent of Code repo](https://github.com/
  
 ## And btw
 
-I use ~~Arch~~ NixOS.
+I use ~~Arch~~ NixOS (and NeoVim).
 
