@@ -14,10 +14,11 @@ significantly. I'm loving it so far.
 |---|---|
 | Name | Petr Laštovička |
 | Born | 2002 |
-| High school | Gymnázium Pelhřimov (Grammar school) (2016 - 2021)| 
-| University | Faculty of Information Technology CTU Prague (2021 - …) |
+| High school | Gymnázium Pelhřimov (Grammar school) (2016–2021)| 
+| Bachelors | Faculty of Information Technology CTU Prague (2021–2025) |
 | Field | Theoretical informatics |
-| Study average | 1.05 |
+| Study results | average 1.05, 299 credits |
+| Studied subjects | [Czech](./study_results_cs.pdf), [English](./study_results_en.pdf) |
 | ORCID | [0009-0001-1679-6221](https://orcid.org/0009-0001-1679-6221) |
 | Hobbies | Programming, Guitar playing, Dancing |
 
@@ -98,10 +99,10 @@ Check my coding style (not only) in my [Advent of Code repo](https://github.com/
  - [Email - lastaappsdev@gmail.com](mailto:lastaappsdev@gmail.com)
  - [GitHub - LastaApps](https://github.com/Lastaapps)
  - [Telegram - @to_urcite_ty_kokos](https://t.me/to_urcite_ty_kokos)
- - [Matrix - @to_urcite_ty_kokos:lastope2.sh.cvut.cz](@to_urcite_ty_kokos:lastope2.sh.cvut.cz) ([backup](@to_urcite_ty_kokos:matrix.org))
+ - [Matrix - @to_urcite_ty_kokos:lastope2.sh.cvut.cz](https://matrix.to/#/@to_urcite_ty_kokos:lastope2.sh.cvut.cz) ([backup](https://matrix.to/#/@to_urcite_ty_kokos:matrix.org))
  - [LinkedIn](https://www.linkedin.com/in/petr-laštovička-597a11188/)
  
 ## And btw
 
-I use ~~Arch~~ NixOS (and NeoVim).
+I use ~~Arch~~ NixOS (and Neovim).
 
