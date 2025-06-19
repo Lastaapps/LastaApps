@@ -21,8 +21,8 @@ My mother tongue is Czech.
 
 | Key  | Value  |
 |---|---|
-| Name | Petr Laštovička |
-| Born | 2002 (23 years old) |
+| Name | Bc. Petr Laštovička |
+| Born | 2002 |
 | High school | Gymnázium Pelhřimov (Grammar school) (2016–2021)| 
 | Bachelors | Faculty of Information Technology CTU Prague (2021–2025) |
 | Field | Computer science |
@@ -38,11 +38,9 @@ My mother tongue is Czech.
 - Flexible realizations existence: NP-completeness on sparse graphs and algorithms,
   Petr Laštovička, Jan Legerský, 2024,
   [arXiv.org](https://www.arxiv.org/abs/2412.13721).
-- NAC-colorings search: complexity and algorithms (Bachelors thesis) (will be published soon)
-<!-- - Bachelors thesis – NAC-colorings search: complexity and algorithms,
+- Bachelors thesis – NAC-colorings search: complexity and algorithms,
   [text](https://github.com/Lastaapps/bc_thesis),
-  [code](https://github.com/Lastaapps/bc_thesis_code).
-  [(temporary PDF link)]() -->
+  [code](https://github.com/Lastaapps/bc_thesis_code), 2025.
 
 
 ## Skills \& Technologies
