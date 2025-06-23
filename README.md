@@ -135,7 +135,7 @@ I use **Docker compose** for containerization and **Nginx** as a reverse proxy.
 - [GitHub — LastaApps](https://github.com/Lastaapps)
 - [Telegram — @to_urcite_ty_kokos](https://t.me/to_urcite_ty_kokos)
 - [Matrix — @to_urcite_ty_kokos:lastope2.sh.cvut.cz](https://matrix.to/#/@to_urcite_ty_kokos:lastope2.sh.cvut.cz) ([backup](https://matrix.to/#/@to_urcite_ty_kokos:matrix.org))
-- [LinkedIn](https://www.linkedin.com/in/petr-laštovička-597a11188/)
+- [LinkedIn](www.linkedin.com/in/petr-laštovička)
  
 ## And btw
 
