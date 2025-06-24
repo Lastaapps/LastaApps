@@ -12,8 +12,6 @@ significantly in University. I'm loving it so far.
 
 <br><br><br><br><br><br>
 
-## Key information
-
 I speak English fluently at C1/B2 level and German at A2 level.
 My mother tongue is Czech.
 
@@ -22,7 +20,6 @@ My mother tongue is Czech.
 | Key  | Value  |
 |---|---|
 | Name | Bc. Petr Laštovička |
-| Born | 2002 |
 | High school | Gymnázium Pelhřimov (Grammar school) (2016–2021)| 
 | Bachelors | Faculty of Information Technology CTU Prague (2021–2025) |
 | Field | Computer science |
@@ -96,7 +93,8 @@ Here I list projects I developed while studying at FIT CTU.
 Some of them are my own personal project
 and some are assignments from university courses.
 
-- [Menza CTU](https://github.com/Lastaapps/menza) — Mobile client + server for viewing and rating CTU canteen menus (2000+ users, 50+ starts), Kotlin
+- See [publications](#publications--thesis)
+- [Menza CTU](https://github.com/Lastaapps/menza) — Mobile client + server for viewing and rating CTU canteen menus **(2000+ users, 50+ stars)**, Kotlin
 - [Menza backend](https://github.com/Lastaapps/menza-backend) — REST API based backend for the Menza app, Kotlin
 - [Lispík](https://github.com/Lastaapps/Lispik) — SECD VM and compiler for Lisp constructs, Kotlin (2022)
 - [Mila](https://github.com/Lastaapps/Lispik) — Pascal compiler to LLVM, Rust (2023)
